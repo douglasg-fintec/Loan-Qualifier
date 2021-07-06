@@ -2,7 +2,10 @@
 from pathlib import Path
 
 #Import fileio
-from qualifier.utils import fileio
+from qualifier.utils.fileio import (
+    load_csv,
+    save_csv,
+)
 
 # Import Calculators
 from qualifier.utils import calculators
@@ -16,7 +19,8 @@ from qualifier.filters import max_loan_size
 def test_save_csv():
     # @TODO: Your code here!
     # Use Path from pathlib to output the test csv to ./data/output/qualifying_loans.csv
-
+    assert save_csv (Path('./data/output/qualifying_loans.csv')) ==True
+    
 def test_calculate_monthly_debt_ratio():
     assert calculators.calculate_monthly_debt_ratio(1500, 4000) == 0.375
 
@@ -37,3 +41,4 @@ def test_filters():
 
     # @TODO: Test the new save_csv code!
     # YOUR CODE HERE!
+    

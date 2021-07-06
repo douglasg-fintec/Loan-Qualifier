@@ -1,18 +1,43 @@
-# Project Title
+# Loan-Qualifier 
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-TEST
----
+Extend the CLI of an existing application to prompt the user to save the qualifying loans as a new CSV file so that the results can be shared as a spread sheet.
+
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+### Programming  Language
+Python 3.9
 
+### Libraries and Frameworks
+
+**fire 0.4.0** - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+https://google.github.io/python-fire/guide/
+
+**questionary 1.9.0** - A Python library for effortlessly building pretty command line interfaces 
+https://questionary.readthedocs.io/en/stable/
+
+**pytest 6.2.3**  - The pytest framework makes it easy to write small to complex functional testing for applications and libraries.
+https://docs.pytest.org/en/stable/
+
+**csv 0.14.1** - csv file reading and writing library   
+https://docs.python.org/3/library/csv.html
+
+**pathlib 3.4** - object oriented file system paths    
+https://docs.python.org/3/library/pathlib.html
 ---
 
 ## Installation Guide
+In order to run the Loan-Query application you must install the folloing depenedencies. They can each be installed with pip by runbning the following commands:
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+>"pip install fire"
+
+>"pip install questionary"
+
+>"pip install pytest"
+
+>"pip install csv"
+
+>"pip install pathlib"
 
 ---
 
@@ -24,16 +49,21 @@ This section should include screenshots, code blocks, or animations showing how 
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+### Run the CLI
+Run the CLI
+Now open your terminal and navigate to your project directory using the cd command. 
+Then run your CLI with the following code:
 
----
+>"python app.py"
 
 ## Contributors
 
-In this section, list all the people who contribute to this project; since you may want to be reached by recruiters or potential collaborators, include your contact e-mail, and optionally your LinkedIn or Twitter profile.
-
+***Gregory Douglas**
+gregory.w.douglas@cheopsconsulting.com
+twitter gregorywdouglas
+LinkedIn gregorywdouglas
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify others what they can and can not do with your source code and files. Use this section to include the licence you want to use.
+MIT
