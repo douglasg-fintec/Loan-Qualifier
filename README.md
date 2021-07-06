@@ -75,6 +75,8 @@ Then run your CLI with the following code:
 
 >"python app.py"
 
+https://user-images.githubusercontent.com/85652516/124547086-36223380-ddf1-11eb-9d43-78cde4663fd6.png
+
 ## Contributors
 
 Gregory Douglas
