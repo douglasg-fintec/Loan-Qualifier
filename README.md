@@ -22,7 +22,7 @@ https://docs.pytest.org/en/stable/
 **csv 0.14.1** - csv file reading and writing library   
 https://docs.python.org/3/library/csv.html
 
-**pathlib 3.4** - object oriented file system paths    
+**pathlib 3.4** - object oriented file system paths 
 https://docs.python.org/3/library/pathlib.html
 ---
 
@@ -58,10 +58,10 @@ Then run your CLI with the following code:
 
 ## Contributors
 
-***Gregory Douglas**
+Gregory Douglas
 gregory.w.douglas@cheopsconsulting.com
-twitter gregorywdouglas
-LinkedIn gregorywdouglas
+twitter: gregorywdouglas
+LinkedIn: gregorywdouglas
 ---
 
 ## License
