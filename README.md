@@ -2,7 +2,13 @@
 
 Extend the CLI of an existing application to prompt the user to save the qualifying loans as a new CSV file so that the results can be shared as a spread sheet.
 
+
 ## Technologies
+
+## System Diagram
+
+![image](https://user-images.githubusercontent.com/85652516/124553287-2eb35800-ddfa-11eb-940a-61f49befc2fb.png)
+
 
 ### Programming Language
 
