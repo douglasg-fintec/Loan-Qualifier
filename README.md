@@ -90,11 +90,11 @@ Then run your CLI with the following code:
 
 Gregory Douglas
 
-[Email](mailto:gregory.w.douglas@cheopsconsulting.com "Email - Gregory Douglas")
+[Email gregory.w.douglas@cheopsconsulting.com](mailto:gregory.w.douglas@cheopsconsulting.com "Email - Gregory Douglas")
 
-[Twitter](https://twitter.com/gregorywdouglas "Twitter - Gregory Douglas")
+[Twitter: @gregorywdouglas](https://twitter.com/gregorywdouglas "Twitter - Gregory Douglas")
 
-[LinkedIn](https://www.linkedin.com/in/gregorywdouglas "LinkedIn - Gregory Douglas")
+[LinkedIn: @gregorywdouglas](https://www.linkedin.com/in/gregorywdouglas "LinkedIn - Gregory Douglas")
 
 ---
 
