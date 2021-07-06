@@ -5,7 +5,7 @@ Extend the CLI of an existing application to prompt the user to save the qualify
 
 ## Technologies
 
-## System Diagram
+### System Diagram
 
 ![image](https://user-images.githubusercontent.com/85652516/124553287-2eb35800-ddfa-11eb-940a-61f49befc2fb.png)
 
@@ -89,9 +89,12 @@ Then run your CLI with the following code:
 ## Contributors
 
 Gregory Douglas
-gregory.w.douglas@cheopsconsulting.com
-twitter: gregorywdouglas
-LinkedIn: gregorywdouglas
+
+[Email](mailto:gregory.w.douglas@cheopsconsulting.com "Email - Gregory Douglas")
+
+[Twitter](https://twitter.com/gregorywdouglas "Twitter - Gregory Douglas")
+
+[LinkedIn](https://www.linkedin.com/in/gregorywdouglas "LinkedIn - Gregory Douglas")
 
 ---
 
