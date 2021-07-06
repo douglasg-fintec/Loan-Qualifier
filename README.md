@@ -44,7 +44,24 @@ In order to run the Loan-Query application you must install the folloing depened
 
 ## Examples
 
-This section should include screenshots, code blocks, or animations showing how your project works.
+This code block outlines the basic flow of the application logic
+
+def run():
+    """The main function for running the script."""
+
+    # Load the latest Bank data
+    bank_data = load_bank_data()
+
+    # Get the applicant's information
+    credit_score, debt, income, loan_amount, home_value = get_applicant_info()
+    
+    # Find qualifying loans
+    qualifying_loans = find_qualifying_loans(
+        bank_data, credit_score, debt, income, loan_amount, home_value
+    )
+
+    # Save qualifying loans
+    save_qualifying_loans(qualifying_loans)
 
 ---
 
