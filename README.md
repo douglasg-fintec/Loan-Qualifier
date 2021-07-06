@@ -24,6 +24,7 @@ https://docs.python.org/3/library/csv.html
 
 **pathlib 3.4** - object oriented file system paths 
 https://docs.python.org/3/library/pathlib.html
+
 ---
 
 ## Installation Guide
@@ -62,6 +63,7 @@ Gregory Douglas
 gregory.w.douglas@cheopsconsulting.com
 twitter: gregorywdouglas
 LinkedIn: gregorywdouglas
+
 ---
 
 ## License
