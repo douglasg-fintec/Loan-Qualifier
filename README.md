@@ -46,6 +46,7 @@ In order to run the Loan-Query application you must install the folloing depened
 
 This code block outlines the basic flow of the application logic
 
+# The main function 
 def run():
     """The main function for running the script."""
 
